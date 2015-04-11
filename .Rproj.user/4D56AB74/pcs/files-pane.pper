@@ -1,0 +1,9 @@
+{
+    "path" : "~/activity",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
